@@ -1,7 +1,7 @@
 div{
     background-color:rgb(82,127,216);
-    display: inline-flex;
-    justify-content: space-between;
+    display: flex;
+    justify-content: left;
 }
 li{
     display: inline-flex;
@@ -17,4 +17,9 @@ a,h1{
     font: montserrat;
     display: inline-block;
     align-content: center;
+    text-decoration-line: none;
+}
+.center-box{
+    background-color: darkblue;
+
 }
