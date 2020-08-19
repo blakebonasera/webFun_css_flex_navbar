@@ -25,6 +25,7 @@ div.center-box{
     width: 970;
     height: 150px;
     justify-content: center;
+    margin: 5px;
 }
 div.center-item{
     background-color: tan;
@@ -32,4 +33,7 @@ div.center-item{
     height: 75px;
     margin:40px;
     justify-content: center;
+}
+ul{
+    display: flex;
 }
